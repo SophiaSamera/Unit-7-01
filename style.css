@@ -1,0 +1,30 @@
+body {
+background-color: black;
+}
+
+#guessing {
+color: yellow;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 25px;
+}
+
+#game {
+color: yellow;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 15px;
+}
+
+#input {
+width: 50px;
+}
+
+#button {
+background-color: lightsteelblue;
+}
+
+#answer {
+color: yellow;
+font-family: 'Times New Roman', Times, serif;
+}
